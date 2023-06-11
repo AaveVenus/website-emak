@@ -35,7 +35,7 @@ $(document).ready(function ($) {
         spaceBetween: 30,
         loop: true,
         autoplay: {
-            delay: 3000,
+            delay: 5000,
             disableOnInteraction: false,
         },
         speed: 2000,

@@ -1847,16 +1847,4 @@ p {
     .blog-box {
         padding: 20px;
     }
-
-    body.dark-mode {
-        background-color: #333;
-        color: #fff;
-      }
-      
-      /* Gaya khusus untuk elemen tertentu */
-      .dark-mode .navbar {
-        background-color: #000;
-        color: #fff;
-      }
-      
 }
